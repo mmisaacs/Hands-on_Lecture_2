@@ -10,3 +10,17 @@ Test 2:
 Test 3:
     Input: 1
     Expected Results: [[1]]
+
+
+Spiral Matrix Test Cases:
+Test 1:
+    Input: [[1,2,3],[4,5,6],[7,8,9]]
+    Expected Results: [1,2,3,6,9,8,7,4,5]
+
+Test 2:
+    Input: [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+    Expected Results: [1,2,3,4,8,12,11,10,9,5,6,7]
+
+Test 3:
+    Input: [[10,6,3],[12,11,10],[1,2,3],[3,6,9]]
+    Expected Results: [10,6,3,10,3,9,6,3,1,12,11,2]
