@@ -7,7 +7,8 @@ This repository provides solutions to two LeetCode Problems:
    - Moves in circular motion, starting from the top left most corner, moving to the right of the matrix, 
 ```math
   \begin{bmatrix} 
-    X, Y\\ 
-    Y, Z
+    1, 2, 3\\ 
+    4, 5, 6\\
+    7, 8, 9
   \end{bmatrix}
 ```
