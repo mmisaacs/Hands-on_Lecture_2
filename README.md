@@ -20,3 +20,6 @@ This repository provides solutions to two LeetCode Problems:
     1, 2, 3, 6, 9, 8, 7, 4, 5
   \end{bmatrix}
 ```
+
+# How to Run
+## Pascal's Triangle
