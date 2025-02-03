@@ -23,10 +23,12 @@ This repository provides solutions to two LeetCode Problems:
 
 # How to Run
 ## Pascal's Triangle
-1. Run the program "pascal_triangle.java"
+1. Run the program [pascal_triangle.java](./pascal_triangle.java)
 2. Follow the prompt
    - provided test cases and expected outputs can be found in the [test_cases file](./test_cases)
 4. The rows will be generated as an output into terminal
 
 ## Spiral Matrix
-1. matrixTest_cases.java provide 
+[matrixTest_cases.java](./matrixTest_cases.java) provide test cases and compare actual outputs and expected outputs.
+1. Run matrixTest_cases.java to compare three test cases.
+   - The testcases are provided within both the code and the [test_cases file](./test_cases)
