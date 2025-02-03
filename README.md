@@ -14,7 +14,7 @@ This repository provides solutions to two LeetCode Problems:
     7, 8, 9
   \end{bmatrix}
 ```
-      - The following output is the result:
+   -- The following output is the result:
 ```math
   \begin{bmatrix} 
     1, 2, 3, 6, 9, 8, 7, 4, 5
