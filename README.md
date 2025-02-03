@@ -14,7 +14,7 @@ This repository provides solutions to two LeetCode Problems:
     7, 8, 9
   \end{bmatrix}
 ```
-   -- The following output is the result:
+   - The following output is the result:
 ```math
   \begin{bmatrix} 
     1, 2, 3, 6, 9, 8, 7, 4, 5
@@ -23,3 +23,10 @@ This repository provides solutions to two LeetCode Problems:
 
 # How to Run
 ## Pascal's Triangle
+1. Run the program "pascal_triangle.java"
+2. Follow the prompt
+   - provided test cases and expected outputs can be found in the @test_cases file
+4. The rows will be generated as an output into terminal
+
+## Spiral Matrix
+1. matrixTest_cases.java provide 
