@@ -25,7 +25,7 @@ This repository provides solutions to two LeetCode Problems:
 ## Pascal's Triangle
 1. Run the program "pascal_triangle.java"
 2. Follow the prompt
-   - provided test cases and expected outputs can be found in the @test_cases file
+   - provided test cases and expected outputs can be found in the [test_cases file](./test_cases)
 4. The rows will be generated as an output into terminal
 
 ## Spiral Matrix
